@@ -34,5 +34,5 @@ client.on('message', message => {
     
   }
 });
-const mySecret = process.env['token'];
+const mySecret = "OTczNTY3NTA5MDU3OTI1MTcw.GV-9GH.1D7inTqfQfqcCo6dL_mRBLmieJt_onDm5lm8Ig";
 client.login(mySecret);
